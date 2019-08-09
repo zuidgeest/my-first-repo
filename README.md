@@ -1,19 +1,21 @@
-# This is a large heading
+# Spreekbeurt
 
-## This is a smaller heading
+## Dit is de spreekbeurt van James en ik ga het hebben over vakantie
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Deze zomer ben ik op vakantie geweest naar **Frankrijk**. Dat is een land in Europa.
+De hoofdstad van Frankrijk is  *Parijs*. Wij zijn niet naar Parijs geweest maar naar een camping.
+Dat was heel leuk. Ik mocht in een tent slapen en toen het regende werden we
+helemaal nat. Mamma werd toen heel boos en pappa moest huilen.
+In Frankrijk heb ik veel dingen gegeten:
+- Stokbrood
+- Stink kaas
+- Slakken
+Die slakken waren heel raar want ik wist niet dat het slakken waren en de ober legde het op mijn bord en toen dacht ik dat het stukjes kip waren maar toen zij mijn broer dat het slakken waren!
 
-- This is
-- an unordered
-- list
-
-1. This is
-2. an ordered
-3. list
+Verder hebben we ook spelletjes gespeeld:
+1. Tafeltennis
+2. Voetballen
+3. Verstoppertje
 
 Here is `some code` in the middle of a sentence.
 
