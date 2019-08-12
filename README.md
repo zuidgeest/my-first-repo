@@ -19,6 +19,8 @@ Verder hebben we ook spelletjes gespeeld:
 
 Here is `some code` in the middle of a sentence.
 
+Even kijken of je zelf ook iets kunt aanpassen. Met aanhalingstekens maak je rare dingen. Bijvoorbeeld `hele rare code`.
+
 ```
 This is
 a block
